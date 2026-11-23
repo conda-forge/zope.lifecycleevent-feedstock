@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "6.0"
+  version: "6.1"
 
 package:
   name: zope.lifecycleevent
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zope.lifecycleevent/zope_lifecycleevent-${{ version }}.tar.gz
-  sha256: cddf7e0c4ab9f6b7c2411ddafa54212270eabc40af315de5ae8b421f4a95298d
+  sha256: 3f709984d52459320b5e8d95846a59825e2f0e9aa57162d03ad6c4d53862fc3c
 
 build:
   number: 0
